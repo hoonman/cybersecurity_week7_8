@@ -41,9 +41,10 @@
 
 - source code: 
 - screen cap: 
-Username Vulnerability: <https://github.com/hoonman/cybersecurity_week7_8/blob/main/usernameVulnerability.gif>
-Password Vulnerability: <https://github.com/hoonman/cybersecurity_week7_8/blob/main/passwordVulnerability.gif>
-
+Username Vulnerability:
+![](https://github.com/hoonman/cybersecurity_week7_8/blob/main/usernameVulnerability.gif)
+Password Vulnerability: 
+![](https://github.com/hoonman/cybersecurity_week7_8/blob/main/passwordVulnerability.gif)
 
 5. Privilege Escalation
 - steps: Search for a private post by manipulating the URL of a 
