@@ -2,9 +2,9 @@
 
 
 1. XSS: 
-- steps: Create a post with <svg onload=alert(1)> in it. We need this for the user to get the alert when they comment later once the post is published.
+- steps: Create a post with ```<svg onload=alert(1)>``` in it. We need this for the user to get the alert when they comment later once the post is published.
 When the post is published, the user can go to the published website by either going to a public or a private one. 
-When visiting the public website where the post includes XSS script, user can comment "<svg onload=alert(1)>" to actually run the script itself to get the alert on their web broswer.
+When visiting the public website where the post includes XSS script, user can comment ```<svg onload=alert(1)>``` to actually run the script itself to get the alert on their web broswer.
 - types of vulnerabilities: XSS Script can be run when commenting on a post that includes that script.
 - CVE identifiers:
 - affected versions and patches: 
