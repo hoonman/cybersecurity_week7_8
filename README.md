@@ -53,4 +53,4 @@ Password Vulnerability:
 - affected versions and patches
 - source code:
 - screen cap:
-URL Manipulation: https://github.com/hoonman/cybersecurity_week7_8/blob/main/urlManip.gif
+![](https://github.com/hoonman/cybersecurity_week7_8/blob/main/urlManip.gif)
