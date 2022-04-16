@@ -18,7 +18,7 @@ When visiting the public website where the post includes XSS script, user can co
  |      - https://cedricvb.be/post/wordpress-stored-xss-vulnerability-4-1-2/
 - source code:
 - screen cap: 
-
+![](https://github.com/hoonman/cybersecurity_week7_8/blob/main/XSS.gif)
 2. SQLI
 - steps:
 - types of vulnerabilities:
@@ -44,7 +44,8 @@ We can also run this alert by updating the "text" of the post. Then when we view
  |      - https://wordpress.org/news/2017/01/wordpress-4-7-1-security-and-maintenance-release/
 - source code:
 - screen cap:
-
+![](https://github.com/hoonman/cybersecurity_week7_8/blob/main/CSRF.gif)
+![](https://github.com/hoonman/cybersecurity_week7_8/blob/main/CSRF2.gif)
 
 4. User Enumeration
 - steps: (1) When logging into Wordpress, we can see that when we input an existing username, we get an ERROR message saying that there is a user with that name. 
